@@ -4,6 +4,4 @@ Welcome to my "My Digital Treasure" Repository! This repository is a collection 
 # Table of Projects Live Link
 | Project Name | Demo Link | Date |
 | -------- | -------- | -------- |
-| Agency Website   | [Cell 2  ](https://stunning-zuccutto-50416b.netlify.app/) | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
-| Cell 7   | Cell 8   | Cell 9   |
+| Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan 2024  |
