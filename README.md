@@ -5,5 +5,5 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 | Project Name | Demo Link | Date |
 |----------- |---------- |----------|
 | Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan 2024  |
-| TODO List  | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Feb 2024  |
+| TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb 2024  |
 
