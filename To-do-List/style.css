@@ -118,7 +118,7 @@ h2{
   width: 5px;
 }
 ::-webkit-scrollbar-thumb{
-  background: #ffffff;
+  background: #fff;
 }
 .video{
   position: absolute;
