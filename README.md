@@ -4,6 +4,9 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 # Table of Projects Live Link
 | Project Name | Demo Link | Date |
 |----------- |---------- |----------|
-| Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan 2024  |
+| Calculator| [Demo ]((https://venky2100calculator.netlify.app/)) | Feb 2024  |
 | TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb 2024  |
+| Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan 2024  |
+
+
 
