@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon"  type="image/png" href="/Assets/number-one_3840653.png">
+  <title>Guess the Number</title>
+  <style>
+    *{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body{
+      width: 50%;
+      max-width: 800px;
+      min-width: 480px;
+      margin: 50px auto;
+      background-color: #c5d8d5;
+    }
+    label{
+      font-size: 20px;
+    }
+    input{
+      border-radius: 5px;
+      outline: none;
+      padding: 10px;
+    }
+    input[type="text"]{
+      font-size: medium;
+    }
+    input[type="submit"]{
+      cursor: pointer;
+        border:0;
+        letter-spacing: 1px;
+        background: rgba(135, 232, 16, 0.3);
+        color: rgba(0, 0, 200, 0.6);
+        text-transform: uppercase;
+        box-shadow: 1px 1px 2px rgba(246, 13, 160, 0.4);
+        border: 2px solid rgba(97, 184, 42, 0.861); 
+    }
+    input[type="submit"]:hover{
+        opacity: 0.9;
+      }
+      input[type="submit"]:focus{
+        transition: scale(2,9);
+      }
+      button{
+        padding: 10px;
+        color: white;
+        background-color: rgba(81, 173, 176, 0.863);
+        border: 2px solid rgba(81, 173, 176, 0.694);
+        cursor: pointer;
+        font-size: 1rem;
+        border-radius: 9px;
+        letter-spacing: 0.5px;
+      }
+    
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Guessing Game</h1>
+    <p>We have selected a random <b>NUMBER</b> between 1 and 100. See if you can guess it in 10 turns or fewer. We'll tell you if your guess was too high or low.
+    </p>
+    <div class="form">
+      <label for="guessField">Enter a Guess:</label>
+      <input type="text" id="guessField" class="guessField">
+      <input type="submit" value="Submit Guess" class="guessSubmit">
+    </div>
+    <div class="resultParas">
+      <p class="guesses"></p>
+      <p class="lastResult"></p>
+      <p class="lowOrHi"></p>
+    </div>
+
+  </div>        
+  <script src="script.js"></script>
+</body>
+</html
