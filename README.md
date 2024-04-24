@@ -4,7 +4,7 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 # Table of Projects Live Link
 | Project Name | Demo Link | Date |
 |----------- |---------- |----------|
-| React Calculator|[Demo](https://calculator-nw1qqd9u6-venkatesh2100s-projects.vercel.app/)|April 2024|
+| React Calculator|[Demo](https://calculator-rj.vercel.app/)|April 2024|
 | Bussiness Card |[Demo](https://vsbussinesscard.vercel.app/)|Mar 2024|
 | React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar 2024 |
 | GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb 2024  |
