@@ -5,7 +5,7 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 | Project Name | Demo Link | Date |
 |----------- |---------- |----------|
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April 2024|
-| Bussiness Card |[Demo](https://vsbussinesscard.vercel.app/)|Mar 2024|
+| Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar 2024|
 | React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar 2024 |
 | GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb 2024  |
 | Calculator| [Demo ](https://venky2100calculator.netlify.app/) | Feb 2024  |
