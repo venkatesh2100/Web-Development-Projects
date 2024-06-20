@@ -3,7 +3,7 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 
 # Table of Projects Live Link
 | Project Name | Demo Link | Date | Repo|
-|----------- |---------- |----------|
+|----------- |---------- |----------|--------|
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April | https://github.com/venkatesh2100/Calculator|
 | Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar |  |
 | React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar  | |
