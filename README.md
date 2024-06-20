@@ -4,13 +4,15 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 # Table of Projects Live Link
 | Project Name | Demo Link | Date | Repo|
 |----------- |---------- |----------|--------|
-| React Calculator|[Demo](https://calculator-rj.vercel.app/)|April | https://github.com/venkatesh2100/Calculator|
-| Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar |  |
-| React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar  | |
-| GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb   | |
-| Calculator| [Demo ](https://venky2100calculator.netlify.app/) | Feb   | |
-| TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb   | |
-| Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan   | |
+|TIC_TAC|[Demo]()|JUNE|[Link](https://github.com/venkatesh2100/TIC_TAC)|
+|Todo App | [Demo]()|May |https://github.com/venkatesh2100/todo-app|
+| React Calculator|[Demo](https://calculator-rj.vercel.app/)|April | https://github.com/venkatesh2100/calculatorRJ|
+| Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar | https://github.com/venkatesh2100/profilecard |
+| React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar  | https://github.com/venkatesh2100/ReactFacts|
+| GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb   | https://github.com/venkatesh2100/guessTheNumber|
+| Calculator| [Demo ](https://venky2100calculator.netlify.app/) | Feb   |https://github.com/venkatesh2100/Calculator |
+| TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb   | https://github.com/venkatesh2100/TODOLIST|
+| Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan   |https://github.com/venkatesh2100/creative-agency-website  |
 
 
 
