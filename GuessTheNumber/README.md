@@ -1,2 +1,0 @@
-# guessTheNumber
-JavaScript based project
