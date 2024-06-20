@@ -2,9 +2,9 @@
 Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an impressive collection of my various projects that showcase my creativity and skills. Each project has been meticulously crafted with passion and attention to detail. Below, you will find a table listing all the projects in this repository along with their corresponding links. 🚀💻
 
 # Table of Projects Live Link
-| Project Name | Demo Link | Date | Repo|
+| Project Name | Demo Link | Date | Repository|
 |----------- |---------- |----------|--------|
-|TIC_TAC|[Demo]()|JUNE|[Link](https://github.com/venkatesh2100/TIC_TAC)|
+|TIC_TAC|[Demo]()|June|[Link](https://github.com/venkatesh2100/TIC_TAC)|
 |Todo App | [Demo]()|May |[Link](https://github.com/venkatesh2100/todo-app)|
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April |[Link](https://github.com/venkatesh2100/calculatorRJ)|
 | Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar |[Link](https://github.com/venkatesh2100/profilecard )|
