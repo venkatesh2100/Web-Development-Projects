@@ -9,7 +9,7 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April |[Link](https://github.com/venkatesh2100/calculatorRJ)|
 | Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar |[Link](https://github.com/venkatesh2100/profilecard )|
 | React Facts | [Demo ](https://vs-reactfacts.netlify.app/) | Mar  | [Link](https://github.com/venkatesh2100/ReactFacts)|
-| GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb   |[Link] (https://github.com/venkatesh2100/guessTheNumber)|
+| GuessThe Number| [Demo ](https://vsguessthenumber.netlify.app/) | Feb   |[Link](https://github.com/venkatesh2100/guessTheNumber)|
 | Calculator| [Demo ](https://venky2100calculator.netlify.app/) | Feb   |[Link](https://github.com/venkatesh2100/Calculator) |
 | TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb   | [Link](https://github.com/venkatesh2100/TODOLIST)|
 | Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan   |[Link](https://github.com/venkatesh2100/creative-agency-website) |
