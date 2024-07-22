@@ -1,3 +1,7 @@
+
+
+
+
 export const Line = ({ progress }: { progress: number }) => {
   return (
     <div className="w-full bg-gray-200 h-1.5 dark:bg-gray-700">
