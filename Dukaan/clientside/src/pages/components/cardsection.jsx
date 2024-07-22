@@ -23,8 +23,7 @@ export default function () {
           title={"Amount pending"}
           amount={"82,374.20"}
           orderCount={13}
-        /></div>
-     
+        /></div> 
       </div>
 <div className="lg:w-1/3">
         <RevenueCard
