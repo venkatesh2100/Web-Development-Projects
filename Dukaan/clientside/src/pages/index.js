@@ -6,6 +6,7 @@ import Cardsection from "./components/cardsection";
 import TopBar from "./components/topbar";
 import { Table } from "./components/Table";
 import { DataSection } from "./components/dataSection";
+import MainBody from "./components/mainBody";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,8 +14,7 @@ export default function Home() {
   return (
     <main >
       <TopBar/>
-      <Cardsection/>
-      <DataSection/>
+      <MainBody/>
     </main>
   );
 }
