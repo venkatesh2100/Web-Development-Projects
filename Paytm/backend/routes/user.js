@@ -1,5 +1,11 @@
 import { express } from "express";
 
-const router = express.Router();
+const app = express.Router();
+
+app.get("/",(req,res)=>{
+
+  
+})
+
 
 exports.module = router;
