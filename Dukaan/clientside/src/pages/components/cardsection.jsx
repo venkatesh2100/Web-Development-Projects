@@ -9,7 +9,7 @@ export default function () {
   return (
     <main className="lg:flex gap-4">
       <div className="md:flex lg:w-2/3 gap-4" >
-      <div className="md:flex w-1/2 mb-2">
+      <div className="md:w-1/2 mb-3">
         <BlueRevenueCard
           title={"Next Payout"}
           amount={"2,303.20"}
@@ -18,7 +18,7 @@ export default function () {
           Time={"4:00pm"}
         /></div>
 
-      <div className='md:w-1/2'>
+      <div className='md:w-1/2 mb-3'>
         <RevenueCard
           title={"Amount pending"}
           amount={"82,374.20"}

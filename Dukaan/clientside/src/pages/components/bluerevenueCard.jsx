@@ -2,7 +2,7 @@ import React from "react";
 
 export const BlueRevenueCard = ({ title, amount, orderCount, Day, Time }) => {
   return (
-    <div className="bg-sky-600  h-fit hover:bg-sky-900 text-white rounded shadow-md  flex-grow min-w-80">
+    <div className="bg-sky-700  h-fit hover:bg-sky-900 text-white rounded-lg shadow-md  flex-grow min-w-80 w-full ">
       <div className="flex p-5 flex-col gap-4">
         <div className="flex items-center gap-3">
           <div>{title}</div>
@@ -56,7 +56,7 @@ export const BlueRevenueCard = ({ title, amount, orderCount, Day, Time }) => {
       </div>
 
       {/* Here Next page Date and Time */}
-      <div className="bg-sky-900 flex justify-between rounded px-6 py-2 ">
+      <div className="bg-sky-900 flex justify-between rounded-lg px-6 py-2 ">
         <div>Next Payment Date:</div>
         <div>
           {Day}, {Time}
