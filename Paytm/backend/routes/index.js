@@ -1,8 +1,8 @@
 import express from "express";
-import userRouter from "../db";
+import userRouter from"./user";
 const app = express.Router();
 
-
+app.use("/user",userRouter);
 
 module.exports = router;
 
