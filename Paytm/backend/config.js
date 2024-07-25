@@ -1,9 +1,8 @@
 const JWT_TOKEN = "Venky";
-const MONGO_URL="mongodb+srv://venkyvenkatiit@cluster-paytm.xyl9grg.mongodb.net "
+const MONGO_URL =
+  "mongodb+srv://venkyvenkatiit@cluster-paytm.xyl9grg.mongodb.net ";
 
-
-
-module.exports = {
+export default {
   JWT_TOKEN,
-  MONGO_URL
-}
+  MONGO_URL,
+};
