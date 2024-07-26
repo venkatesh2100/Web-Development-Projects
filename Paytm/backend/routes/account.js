@@ -1,4 +1,5 @@
 import express from "express"
+import router from "./user";
 const {Account ,User } =require("../db")
 
 const app=express.Router();
@@ -20,3 +21,6 @@ app.get('/dashboard',authMiddleware,async (req,res) => {
   }
 })
 
+// we do the Transfer step later
+
+module.exports={app};
