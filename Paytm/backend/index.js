@@ -1,15 +1,12 @@
 const express = require("express");
-import rootRouter from './routes/index'
-const cors=require("cors");
-const app=express();
-
-
+const rootRouter = require('./routes/index')
+const cors = require('cors');
+const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use("/api/vi",rootRouter)
+app.use("/api/v1",rootRouter)
 
-
-app.listen(3000,()=>{
-  console.log("listen at port 3000");
+app.listen(3000,() => {
+    console.log("listening at port 3000");
 })
