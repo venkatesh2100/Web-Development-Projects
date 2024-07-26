@@ -93,7 +93,7 @@ router.post("/signin", async (req, res) => {
   });
 });
 
-// Zod validation schema for update
+// Zod validation schema for updated1
 const updateSchema = object({
   username: string().optional(),
   password: string().optional(),
@@ -155,7 +155,7 @@ router.get("/bulk", async (req, res) => {
         page,
         limit,
       },
-    });
+    });x
   } catch (error) {
     return res.status(500).json({
       message: "Error while reading",
