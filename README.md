@@ -5,7 +5,8 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 # Table of Projects Live Link
 | Project Name | Demo Link | Date | Repository|
 |----------- |---------- |----------|--------|
-|Dukkan| [Demo](https://dukkan-codewithvenky.vercel.app/)|May |[Link](https://github.com/venkatesh2100/Dukkan)|
+|Dukkan| [Demo](https://dukkan-codewithvenky.vercel.app/)|JULY |[Link](https://github.com/venkatesh2100/Dukkan)|
+|TIC_TAC| [Demo]()|JUNE|[Link](https://github.com/venkatesh2100/TIC_TAC)|
 |Todo App | [Demo]()|May |[Link](https://github.com/venkatesh2100/todo-app)|
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April |[Link](https://github.com/venkatesh2100/calculatorRJ)|
 | Bussiness Card |[Demo](https://profilecard-indol.vercel.app/)|Mar |[Link](https://github.com/venkatesh2100/profilecard )|
