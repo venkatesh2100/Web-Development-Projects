@@ -5,6 +5,8 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 # Table of Projects Live Link
 | Project Name | Demo Link | Date | Repository|
 |----------- |---------- |----------|--------|
+
+|Dukkan|[Demo](https://dukkan-codewithvenky.vercel.app/)|June|[Link](https://github.com/venkatesh2100/Dukkan)|
 |TIC_TAC|[Demo]()|June|[Link](https://github.com/venkatesh2100/TIC_TAC)|
 |Todo App | [Demo]()|May |[Link](https://github.com/venkatesh2100/todo-app)|
 | React Calculator|[Demo](https://calculator-rj.vercel.app/)|April |[Link](https://github.com/venkatesh2100/calculatorRJ)|
@@ -14,6 +16,3 @@ Welcome to "Welcome to "My Digital Treasure" repository! 🎉📂 This is an imp
 | Calculator| [Demo ](https://venky2100calculator.netlify.app/) | Feb   |[Link](https://github.com/venkatesh2100/Calculator) |
 | TODO List  | [Demo ](https://deluxe-sorbet-27d79d.netlify.app/) | Feb   | [Link](https://github.com/venkatesh2100/TODOLIST)|
 | Agency Website   | [Demo ](https://stunning-zuccutto-50416b.netlify.app/) | Jan   |[Link](https://github.com/venkatesh2100/creative-agency-website) |
-
-
-
