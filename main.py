@@ -26,7 +26,7 @@ Welcome to **"My Digital Treasure"** repository! 🎉📂 This is an impressive 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user={username}&theme=radical)
+# ![GitHub Streak](https://streak-stats.demolab.com?user={username}&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=radical)
 ![Venky's GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical)
 
